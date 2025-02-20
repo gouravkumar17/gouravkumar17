@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gouravkumar17" alt="gouravkumar17" /></a> </p>
 
-- 🔭 I’m currently working on **QuestionSearch**
+- 🔭 I’m currently working on **AI-Image-Generator**
 
 - 🌱 I’m currently learning **MERN**
 
